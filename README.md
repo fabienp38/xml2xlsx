@@ -1,2 +1,2 @@
 # xml2xlsx
-Convert xml file to xlsx file
+Convert xml file to xlsx file.
